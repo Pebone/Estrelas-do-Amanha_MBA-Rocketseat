@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-Projeto de um Formulário de matrícula desenvolvido durante as aulas sobre Formulários na Rocketseat.
+Projeto de um Formulário de matrícula desenvolvido durante as aulas sobre Formulários no curso de Pós-Gradução em Desenvolvimento Fullstack da Rocketseat.
 </p>
 
 <p align="center">
